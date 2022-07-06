@@ -17,7 +17,7 @@
         android:theme="@style/Theme.wishlist">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCj14nhygJKlDDZotSwKN-ieDFYB3XXh5g"/>
+            android:value=""/>
         <activity
             android:name="com.example.wishlist.MainActivity"
             android:exported="true">
